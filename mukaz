@@ -1,0 +1,66 @@
+// https://randomuser.me/api/
+
+// 20190409074259
+// https://mukaz.me/api/
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "alice",
+        "last": "henry"
+      },
+      "location": {
+        "street": "6452 rue abel-gance",
+        "city": "amiens",
+        "state": "charente",
+        "postcode": 94107,
+        "coordinates": {
+          "latitude": "-0.5008",
+          "longitude": "40.8890"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "alice.henry@example.com",
+      "login": {
+        "uuid": "07e0a502-e8be-4551-b059-e206cfa3331d",
+        "username": "organicwolf212",
+        "password": "enternow",
+        "salt": "FT3tveSb",
+        "md5": "b64a3e5feb236a334abb4efac614b02a",
+        "sha1": "ff907289e881e39a3dc1be15495317c97c922613",
+        "sha256": "a13658b6fae31bbcb9570143238c907f202e9b9b85ad886bda7f87ca4eb98860"
+      },
+      "birthdate": {
+        "date": "1944-10-17T05:50:04Z",
+        "age": 74
+      },
+      "registered": {
+        "date": "2008-09-01T15:21:59Z",
+        "age": 10
+      },
+      "phone": "05-62-21-08-89",
+      "cell": "06-86-86-26-12",
+      "id": {
+        "name": "INSEE",
+        "value": "2NNaN09602617 03"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+      },
+      "nat": "FR"
+    }
+  ],
+  "info": {
+    "seed": "0ac7c39bbc907a3b",
+    "results": 1,
+    "page": 1,
+    "version": "1.2"
+  }
+}
